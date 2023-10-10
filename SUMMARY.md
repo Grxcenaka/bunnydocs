@@ -7,7 +7,6 @@
 * [📚 กฏประเทศ](rules/server-rule.md)
 * [📘 กฏหมอ](rules/mdrule.md)
 * [📕 กฏตำรวจ](rules/police-rule.md)
-* [📙 กฏสภา](rules/council-rule.md)
 
 ## Guides
 
