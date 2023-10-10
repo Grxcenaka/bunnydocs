@@ -12,8 +12,8 @@ Rules : ทำตามกฏ! ด้วยล่ะโดนแบนมาจ�
 
 ## กฏหน่วยงาน
 
-{% content-ref url="rules/mdrule.md" %}
-[mdrule.md](rules/mdrule.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 {% content-ref url="rules/police-rule.md" %}

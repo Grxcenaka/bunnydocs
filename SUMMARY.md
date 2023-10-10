@@ -5,8 +5,8 @@
 ## RULES
 
 * [📚 กฏประเทศ](rules/server-rule.md)
-* [📘 กฏหมอ](rules/mdrule.md)
 * [📕 กฏตำรวจ](rules/police-rule.md)
+* [📘 กฏหมอ](rules/police-rule-1.md)
 
 ## Guides
 
